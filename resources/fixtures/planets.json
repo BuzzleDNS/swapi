@@ -1018,5 +1018,22 @@
     },
     "model": "resources.planet",
     "pk": 60
+},
+{
+    "fields": {
+        "edited": "2021-11-17T11:58:17.525Z",
+        "climate": "Hot and dry",
+        "surface_water": "unknown",
+        "name": "Mandalore",
+        "diameter": "9200",
+        "rotation_period": "19",
+        "created": "2021-11-17T11:58:17.525Z",
+        "terrain": "Domed cities, desert",
+        "gravity": "Standard",
+        "orbital_period": "366",
+        "population": "4000000"
+    },
+    "model": "resources.planet",
+    "pk": 61
 }
 ]
